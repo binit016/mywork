@@ -1,0 +1,27 @@
+
+
+.sidebar {
+    height: 800px;
+	margin-top: 5px;
+    padding-left: 20px;
+	padding-top: 10px;
+    background-color: navy;
+    opacity: 0.8;
+    color: white;
+    width: 400px;
+    position: fixed;
+    z-index: 200;
+	left: -100%;
+	animation: slide-open 0.5s forwards;
+}
+
+.sidebar.close {
+	left: -100%;
+	
+}
+
+
+
+@keyframes slide-open {
+		100% { left: 0 }
+}
