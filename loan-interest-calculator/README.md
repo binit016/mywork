@@ -4,8 +4,8 @@ A loan interest calculator made with React.
 
 ## Built With
 
-- [React.JS](https://reactjs.org/) -Frontend library used in the project.
-- [Bootstrap](https://getbootstrap.com/) - Used for basic styling.
+- [React.JS](https://reactjs.org/) 
+- [Bootstrap](https://getbootstrap.com/) 
 
 ## Authors
 
